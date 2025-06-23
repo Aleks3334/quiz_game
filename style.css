@@ -20,14 +20,14 @@ body {
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, .13);
-    display: block;
+    display: none;
 }
 
 .config-container {
     width: 420px;
     padding: 25px;
     text-align: center;
-
+    display: block;
 }
 
 .config-title {
@@ -97,7 +97,6 @@ body {
 }
 
 .quiz-container{
-    display: block;
     width: 480px;
 }
 
